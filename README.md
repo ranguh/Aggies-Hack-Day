@@ -1,5 +1,5 @@
 # Aggies Hack Day
-This repository is for the Aggies Hack Day event hosted August 2, 2016 on campus at NC A &amp; T SU.
+This repository is for the Aggies Hack Day event hosted April 2, 2016 on campus at NC A &amp; T SU.
 
 # Participants:
 This is where you will find the instructions to both rounds of the Programming Contest, as well as instructions for the projects being worked on during this event.
@@ -16,14 +16,14 @@ Files pertaining to this project can be found and committed into the folder titl
 Files pertaining to the SIG websites as well as the current ACM website can be found committed into the folder titled "Websites".
 
 # Project Compton:
-Files pertaining to this project can be found and committed ino the fikder titled "Compton".
+Files pertaining to this project can be found and committed into the folder titled "Compton".
 
 
 
 
 
 
-If you have any questions at any time feel free to ask anyone on the E-Board or a project leader. 
+If you have any questions at any time, feel free to ask anyone on the E-Board or a project leader. 
 
 
 #The Association for Computing Machinery
